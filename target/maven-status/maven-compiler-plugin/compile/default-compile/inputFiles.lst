@@ -1,0 +1,12 @@
+G:\spring-workspace\security\src\main\java\security\security\jwt\JWTUtil.java
+G:\spring-workspace\security\src\main\java\security\models\Cliente.java
+G:\spring-workspace\security\src\main\java\security\security\UserDetailsServiceImpl.java
+G:\spring-workspace\security\src\main\java\security\security\jwt\JWTAuthenticationFilter.java
+G:\spring-workspace\security\src\main\java\security\App.java
+G:\spring-workspace\security\src\main\java\security\enums\Perfil.java
+G:\spring-workspace\security\src\main\java\security\security\jwt\JWTAuthorizationFilter.java
+G:\spring-workspace\security\src\main\java\security\configs\SecurityConfig.java
+G:\spring-workspace\security\src\main\java\security\repositories\ClienteRepository.java
+G:\spring-workspace\security\src\main\java\security\services\ClienteService.java
+G:\spring-workspace\security\src\main\java\security\controllers\ClienteController.java
+G:\spring-workspace\security\src\main\java\security\security\UserDetailsImpl.java

@@ -1,0 +1,12 @@
+security\configs\SecurityConfig.class
+security\services\ClienteService.class
+security\security\jwt\JWTUtil.class
+security\controllers\ClienteController.class
+security\enums\Perfil.class
+security\security\jwt\JWTAuthorizationFilter.class
+security\security\UserDetailsServiceImpl.class
+security\security\jwt\JWTAuthenticationFilter.class
+security\security\UserDetailsImpl.class
+security\App.class
+security\models\Cliente.class
+security\repositories\ClienteRepository.class
